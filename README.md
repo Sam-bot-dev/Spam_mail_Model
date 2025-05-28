@@ -1,4 +1,4 @@
-# 📧 Spam Mail Classifier
+# 📧 Spam Mail Classifier.
 
 ---
 
