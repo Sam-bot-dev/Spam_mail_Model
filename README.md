@@ -37,4 +37,5 @@ Data file used, you can find it in Kaggle.
 
 python --version
 ```
-The dataset is taken from kaggle.
+if you want you can take a dataset of your oun or from kaggle
+The dataset that I used was taken from kaggle.
